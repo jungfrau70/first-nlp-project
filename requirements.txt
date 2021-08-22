@@ -1,0 +1,13 @@
+click
+fastapi
+h11
+joblib
+numpy
+pydantic
+scikit-learn
+scipy
+sklearn
+starlette
+threadpoolctl
+typing-extensions
+uvicorn
